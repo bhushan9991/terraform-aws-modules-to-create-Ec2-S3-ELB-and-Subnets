@@ -1,0 +1,11 @@
+## VPC Information
+aws_region	= "eu-west-1"
+
+## vpc ID
+vpc_id                                          = "vpc-079d2b6484d4191af"
+env                                             = "stage"
+
+## Launch-config Vars
+image_id                                        = "ami-027078d981e5d4010"
+instance_type                                   = "t2.micro"
+ec2_key_pair_name                               = "aws_dev"

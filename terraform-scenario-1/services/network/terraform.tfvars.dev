@@ -1,0 +1,9 @@
+## VPC Information
+aws_region	= "eu-west-1"
+
+## vpc ID
+vpc_id                                          = "vpc-079d2b6484d4191af"
+public_subnet_cidr_blocks                       = ["172.81.0.0/24"]
+private_subnet_cidr_blocks                      = ["172.81.1.0/24"]
+
+env = "dev"

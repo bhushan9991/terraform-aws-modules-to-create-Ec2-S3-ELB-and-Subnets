@@ -1,0 +1,7 @@
+terraform {
+  backend "s3" {
+    bucket = "terraform-tf-state"
+    key    = "prod/alb-prod.tfstate"
+    region = "eu-west-1"
+  }
+}

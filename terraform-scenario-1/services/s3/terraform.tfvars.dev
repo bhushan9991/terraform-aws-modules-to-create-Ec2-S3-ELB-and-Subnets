@@ -1,0 +1,6 @@
+## VPC Information
+aws_region	= "eu-west-1"
+
+## vpc ID
+vpc_id                                          = "vpc-079d2b6484d4191af"
+env                                             = "dev"

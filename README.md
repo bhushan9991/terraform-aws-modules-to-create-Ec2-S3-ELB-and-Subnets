@@ -1,6 +1,8 @@
 # Globant-Assignment
 >Terraform modules to create Ec2, S3, ELB, and Subnets
 
+>Terraform version = v0.12.18
+
 To achieve the goal, two solutions have been provided in this repository.
 1. terraform-solution-1
 2. terraform-solution-2
